@@ -1,0 +1,5 @@
+https://internet-of-tomohiro.netlify.app/google_colab/vnc.en.html#run-opengl-programs
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+https://linuxpropaganda.wordpress.com/2016/08/10/install-blender-from-ppa-in-linux-mint-18-xfce/2/
